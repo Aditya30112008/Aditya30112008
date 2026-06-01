@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**Aditya30112008/Aditya30112008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Integration Developer from India
+🔧 I build chatbots, automations & AI-powered tools for businesses
+⚡ Stack: n8n • Make.com • OpenAI API • Python • JavaScript
 
-Here are some ideas to get you started:
+## What I build
+- WhatsApp & Telegram AI bots
+- Appointment booking automation
+- AI chatbots for websites
+- n8n/Make.com workflows
+- Custom GPT integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔗 [AI Chatbot](https://github.com/Aditya30112008/my-first-ai-chatbot) — My first AI chatbot
+
+## Hire me
+📧 ar0055232@gmail.com
+💼 Fiverr | Upwork
+📍 India — Working with clients worldwide . 
