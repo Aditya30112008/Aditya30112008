@@ -1,8 +1,25 @@
 # Hi, I'm Aditya 👋
 
-🤖 AI Integration Developer from India
-🔧 I build chatbots, automations & AI-powered tools for businesses
-⚡ Stack: n8n • Make.com • OpenAI API • Python • JavaScript
+🤖 I Build AI Chatbots & Automation Workflows
+
+Services:
+✅ Custom AI Chatbots (WhatsApp, Telegram, Website)
+✅ n8n Automation Workflows
+✅ Make.com Integrations
+✅ Groq API + LLaMA 3.1 Implementation
+
+Quick Links to My Work:
+🔗 Portfolio: https://aditya30112008.github.io
+🔗 GitHub: https://github.com/Aditya30112008
+
+Why Me?
+- Fast turnaround (3-10 days)
+- Production-ready code
+- 24/7 support
+- Free updates for 1 month
+- Working with clients worldwide
+
+Let's automate your business! 🚀
 
 ## What I build
 - WhatsApp & Telegram AI bots
@@ -20,7 +37,7 @@ Try these chatbots now:
 3. **Grok SaaS Platform** → https://aditya30112008.github.io/grok_saas_platform.html
 4. **Multi-Agent System** → https://aditya30112008.github.io/multi_agent_grok.html
 5. **Dashboard Chatbot** → https://aditya30112008.github.io/ai-dashboard-chatbot.html
-6. **Bug Hunter Bot** → https://aditya30112008.github.io/ultimate_bug_hunter.html
+
 
 ## Projects
 - 🔗 [AI Chatbot](https://github.com/Aditya30112008/my-first-ai-chatbot) — My first AI chatbot
