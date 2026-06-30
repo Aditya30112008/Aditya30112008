@@ -11,9 +11,9 @@ Services:
 ✅ **Enterprise AI Implementation** - Leveraging LLaMA 3.1 & Groq for speed and scale.
 
 Quick Links:
-🔗 [Scaling Strategy to $1k/Day](STRATEGY.md)
+🔗 **[Powerful Revenue Systems](REVENUE_SYSTEMS.md)** (What I can build for you)
+🔗 [Scaling Strategy to $1k/Day](STRATEGY.md) (My roadmap)
 🔗 Portfolio: https://aditya30112008.github.io
-🔗 GitHub: https://github.com/Aditya30112008
 
 Why Me?
 - **Focus on ROI:** I don't just build bots; I build revenue-generating systems.
@@ -22,11 +22,14 @@ Why Me?
 
 Let's automate your growth! 🚀
 
-## Solutions for Your Business
-- **Automated Sales Pipelines:** From lead capture to booked call.
-- **Smart Support Agents:** Handling FAQs and scheduling on WhatsApp/Telegram.
-- **Data & Workflow Automation:** Connecting your CRM, Email, and AI tools.
-- **Custom AI Dashboards:** Visualizing your automation impact.
+## 🚀 High-Impact Revenue Systems
+I help businesses scale by implementing automated systems that drive real money:
+1.  **[The 24/7 AI Sales Closer](REVENUE_SYSTEMS.md#1-the-247-ai-sales-closer)** - Never miss a lead again.
+2.  **[Automated Lead Gen Engine](REVENUE_SYSTEMS.md#2-automated-lead-generation-engine)** - Hyper-personalized outreach at scale.
+3.  **[Intelligent Workflow Automator](REVENUE_SYSTEMS.md#3-intelligent-operations--workflow-automator)** - Cut operational costs by 40%.
+4.  **[The Customer Retention Bot](REVENUE_SYSTEMS.md#4-the-customer-retention-bot)** - Boost LTV and reduce churn.
+
+[**Explore all Revenue Systems →**](REVENUE_SYSTEMS.md)
 
 ## 🎯 Live Demos
 
