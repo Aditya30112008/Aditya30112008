@@ -28,16 +28,29 @@ To reach $1k/day, you need to offer services that businesses value at $3k–$10k
 *   **Option B:** 10 retainer clients at $3,000/month.
 *   **Option C:** 1 enterprise client at $30,000 for a full transformation.
 
-## 4. Scaling Strategy
+## 4. How to Start with ZERO Investment
+You don't need money to start; you need **sweat equity**.
+
+1.  **Use Free Tiers:**
+    *   **Make.com / n8n:** Use their free tiers to build initial prototypes.
+    *   **Groq Cloud:** Access LLaMA 3.1 for free (it's incredibly fast).
+    *   **GitHub Pages:** Host your portfolio for free (as you are already doing!).
+2.  **Organic Outreach:**
+    *   Instead of paid ads, use **cold LinkedIn outreach** and **cold emailing**.
+    *   Find business owners on LinkedIn, identify their manual bottlenecks, and send a personalized video (using Loom - free) showing a prototype you built for them.
+3.  **The "Beta" Client Strategy:**
+    *   Offer to build a system for one client for free or at cost in exchange for a **video testimonial** and **data**. Use that testimonial to close your first $2k+ client.
+
+## 5. Scaling Strategy
 1.  **Niche Down:** Pick one industry (e.g., Real Estate, Solar, Law Firms) and become the expert.
 2.  **Productize your Service:** Build a "standard" workflow that you can deploy quickly for every new client.
-3.  **Outreach:** Use your own AI Lead Gen systems to find your clients.
+3.  **Reinvest Profits:** Once you land your first $2,000 client, use a portion of that to pay for professional tool tiers and automated lead-gen tools.
 
-## 5. Recommended Tech Stack
-*   **Orchestration:** [n8n](https://n8n.io), [Make.com](https://make.com)
-*   **AI Models:** OpenAI (GPT-4o), Anthropic (Claude 3.5 Sonnet), Groq (LLaMA 3.1)
-*   **Channels:** WhatsApp Business API, Telegram, Twilio
-*   **Frontend:** Voiceflow, Stack AI, Custom React Dashboards
+## 6. Recommended Zero/Low-Cost Tech Stack
+*   **Orchestration:** [n8n](https://n8n.io) (Self-hostable for free), [Make.com](https://make.com) (Free tier)
+*   **AI Models:** [Groq](https://groq.com) (Free LLaMA 3.1 access), OpenAI (Pay-as-you-go, very cheap for testing)
+*   **Channels:** Telegram (Free), WhatsApp (via free sandbox for testing)
+*   **Portfolio:** [GitHub Pages](https://pages.github.com/) (Free)
 
 ---
 *Success in AI automation comes to those who build systems, not just prompts.*
